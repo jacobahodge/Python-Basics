@@ -1,5 +1,4 @@
-# Python-Built-in Data Sets
-
+# Python-Collection Types and Practice
 **Collection = single “variable” used to store multiple objects.**
 - ***Not one of the 4 data types***
 
