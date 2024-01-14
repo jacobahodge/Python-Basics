@@ -18,7 +18,7 @@
 - **Ordered and immutable. Duplicates are allowed. Faster for processing.**
 - Can contain different data types.
 
-**#Dictionaries { } **
+**Dictionaries { }**
 - Used to store key-value pairs.
 - The keys have to be immutable and unique and are often characters.
 - Dictionaries support any data type.
