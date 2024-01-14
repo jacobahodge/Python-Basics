@@ -1,17 +1,10 @@
-#Sets { } 
-    # - Unordered, immutable, and unindexed.
-    # - Duplicates are NOT allowed.
-    # - Adding and removing indices is allowed.
-# Sets Practice
+#Sets { }
     fruits = {"apple", "banana", "orange", "apple"}
 
     print(len(fruits) # would return 3, because duplicates are not allowed.
     print(fruits) # would return "('apple', 'banana', 'orange')", because duplicates are not allowed.
 
-# Lists [ ] 
-      # - Ordered and changeable. Duplicates are allowed.
-      # - A sequenced collection of different objects such as integers, strings, and even other lists as well.
-# Lists Practice
+# Lists [ ]
     my_list = [10, 20, 30, 40, 50]
     print(my_list[0]) #the output would be 10
     print(my_list[2]) #the output would be 30
@@ -33,16 +26,9 @@
     mylist = ["apple", "blackcurrant", "banana", "cherry"]
 
 # Tuples ( )
-    # - Ordered and immutable. Duplicates are allowed. Faster for processing.
-    # - Can contain different data types.
-# Tuples Practice 
 
           
-#Dictionaries { } 
-    # - Used to store key-value pairs.
-    # - The keys have to be immutable and unique and are often characters.
-    # - Dictionaries support any data type.
-#Practice
+#Dictionaries { }
    Cars = {
       "brand": "Ford",
       "model": "Mustang",
